@@ -36,3 +36,16 @@
 #alohabeer div.nav-link.active {
     color: #EDC601;
 }
+
+#dukes {
+    background-color: #017574;
+    color: white;
+}
+
+#dukes li.nav-item.nav-link {
+    color: white;
+}
+
+#dukes li#delivery.nav-item.nav-link {
+    color: #f1a228;
+}
